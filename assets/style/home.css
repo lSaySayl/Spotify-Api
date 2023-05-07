@@ -1,0 +1,39 @@
+.banner {
+    background-image: url("../img/banner.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 24%;
+    height: 100vh;
+}
+
+.menu {
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+}
+
+p {
+    text-align: justify;
+}
+
+.starwars {
+    background-color: #16161a;
+}
+
+.starwars h1 {
+    color: white;
+    background-color: #2cb67d;
+}
+
+.planets h1 {
+    margin-bottom: 40px;
+}
+
+.species {
+    margin-top: 40px;
+}
+
+
+.species h1 {
+    margin: 20px 0;
+}
